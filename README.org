@@ -1,0 +1,2 @@
+* Ample Subtle Theme
+  A lowerer contrast, darker version of ample-flat.
